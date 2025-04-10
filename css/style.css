@@ -1,0 +1,64 @@
+h1 {
+   color:aliceblue;
+    background-color: rgb(204, 168, 168);
+    text-align: center;
+}
+p {
+    color: pink;
+    background-color: aliceblue;
+}
+#ParkJimin {
+    color:aqua;
+    background-color: azure;
+    
+
+}
+.warnasatu {
+    color: blueviolet;
+    background-color: azure;
+}
+.warnadua {
+    color: aquamarine;
+    background-color: rgb(255, 167, 167);
+}
+.warnasatu {
+    color: rgb(180, 180, 252);
+    background-color: brown;
+}
+.warnadua {
+    color: rgb(105, 105, 47);
+    background-color: azure;
+}
+.warnatiga {
+    color: black;
+    background-color: palevioletred;
+}
+#kotak-satu {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    margin-bottom: 30px;
+    border-radius: 50px 0;
+}
+#kotak-dua {
+    height: 100px;
+    width: 300px;
+    background-color: blue;
+    margin-bottom: 30px;
+    border-radius: 20%;
+}
+#kotak-tiga {
+    height: 200px;
+    width: 400px;
+    background-color: rgb(216, 135, 135);
+    margin-bottom: 30px;
+    border-radius: 30%;
+}
+#kotak-empat {
+    height: 500px;
+    width: 200px;
+    background-color: rgb(77, 109, 109);
+    margin-bottom: 30px;
+    border-radius: 50%;
+
+}
