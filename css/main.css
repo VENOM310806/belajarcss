@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 .container {
     width: 800px;
@@ -20,6 +21,32 @@
 }
 #navigasi {
     width: 100%;
-    height: 50px;
-    background-color: black;
+    background-color:whitesmoke;
+
+}
+#navigasi ul li{
+    padding: 20px;
+    display: inline-block;
+    color:brown;
+
+}
+#artikel {
+    width: 500px;
+    padding: 20px;   
+    background-color: rgb(240, 223, 204);
+    float: left;
+}#sidebar {
+    width: 300px;
+    padding: 20px;
+    background-color: rgb(145, 127, 161);
+    float: right;
+}
+.clear {
+    clear:both;
+}
+#footer {
+    background: paleturquoise;
+    padding: 20px;
+    text-align: center;
+    color: azure;
 }
